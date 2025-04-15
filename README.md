@@ -60,8 +60,10 @@ This is a **demo version** of a Strategic Management Information System (SMIS) d
 
 ## 📷 Screenshots
 
- (https://github.com/asgetaneh/profile/blob/main/language_page.png)
+(https://github.com/asgetaneh/profile/blob/main/dasboard.png)
 https://github.com/asgetaneh/profile/blob/main/language_page.png
+https://github.com/asgetaneh/profile/blob/main/login-ju.png
+
 ---
 
 
