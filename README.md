@@ -19,6 +19,57 @@
 - LinkedIn: [www.linkedin.com/in/assefa-getaneh-88a169131)
 - GitHub: [github.com/asgetaneh](https://github.com/asgetaneh)
 
+# 📊 Strategic Management Information System (SMIS) – Demo
+
+This is a **demo version** of a Strategic Management Information System (SMIS) designed for public institutions to manage plans, reports, and KPIs across an organizational hierarchy.
+
+> 🚨 This repository contains sample data and public-safe code. Sensitive configurations and actual deployment data are excluded.
+
+---
+
+## ✨ Key Features
+
+### 🔧 Setting Module
+- Language, Planning Year, Reporting Period, and Measurement Unit setup
+- Hierarchical KPI settings (type, behavior, dis-aggregation levels)
+- Office structure configuration
+
+### 📈 Plan Module
+- Create, edit, view, and approve organizational plans
+- Plan submission by office
+- View plans through office hierarchy
+
+### 📊 Reporting Module
+- Submit performance reports
+- Report approval workflows
+- View reports by office hierarchy
+
+### 👥 User Management
+- Users, roles, and permission management
+- Role-based access control
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** (Blade)
+- **Backend:**  Laravel
+- **Database:**  MySQL
+- **Authentication:**  Laravel Auth
+---
+
+## 📷 Screenshots
+
+> _(Add 2–3 screenshots of the dashboard, form, or hierarchy view UI)_
+
+---
+
+
+## 🧪 Demo Login
+
+> You can simulate login with:
+
+
 📚 Currently learning:
 - Microservices architecture
 - Serverless Firebase functions
