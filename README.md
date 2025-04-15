@@ -60,8 +60,8 @@ This is a **demo version** of a Strategic Management Information System (SMIS) d
 
 ## 📷 Screenshots
 
-> _(Add 2–3 screenshots of the dashboard, form, or hierarchy view UI)_
-
+ (https://github.com/asgetaneh/profile/blob/main/language_page.png)
+https://github.com/asgetaneh/profile/blob/main/language_page.png
 ---
 
 
