@@ -11,6 +11,7 @@
 
 🛠️ Projects I’ve built:
 - **SMIS System** – Strategic Management Information System with office hierarchy, planning, and reporting.
+- Fuel managment and controlling-> Used for organization fuel usage stastics information. total fuel used with in given time period and for specific vehicle as well as the whole.(https://testfuel.great-site.net/)
 - **Letter Archive System** – Digital storage, versioning, retrieval, and retention of letters/memos (React + Node.js).
 - **Finance App** – Cross-platform Flutter finance tracking with Laravel backend & offline sync.
 
