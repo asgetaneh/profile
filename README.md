@@ -52,32 +52,45 @@ organization's administrative and academic units. Offices (e.g., President Offic
 Offices, Directorates, Colleges, Departments, Units) can be structured in a parent-child relationship
 to accurately reflect the real-world organizational hierarchy of the institution. This allows for more
 effective governance, reporting, and KPI cascading.
+**Reporting Period Management**
+Enable the creation and configuration of various reporting periods (e.g., quarterly, bi-
+annually, annually).
+• Allow associating KPIs, objectives, and plans to specific reporting cycles.
+• Support the locking or freezing of reporting periods after review/approval to prevent further
+modification.
+• Facilitate period-based performance evaluations and comparisons.
 **
 ### 📈 Plan Module
-  **Plan Submission**: The act of a department/unit submitting its work plan for review.
-  **Plan Review**: Evaluation by reviewers to check for alignment, feasibility, completeness, and
-    correctness.
-  **Plan Approval**: Final authorization by planning officers, administrators, or leadership.
- **Feedback Loop**: Reviewer comments and suggestions sent back to the submitter for
-    updates.
-- Create, edit, view, and approve organizational plans
-- Plan submission by office
-- View plans through office hierarchy
+    **Plan Submission**: The act of a department/unit submitting its work plan for review.
+    **Plan Review**: Evaluation by reviewers to check for alignment, feasibility, completeness, and
+      correctness.
+    **Plan Approval**: Final authorization by planning officers, administrators, or leadership.
+    **Feedback Loop**: Reviewer comments and suggestions sent back to the submitter for
+      updates.
+    - Create, edit, view, and approve organizational plans
+    - Plan submission by office
+    - View plans through office hierarchy
 
 ### 📊 Reporting Module
-- Submit performance reports
-- Report approval workflows
-- View reports by office hierarchy
+    - Submit performance reports
+    - Report approval workflows
+    - View reports by office hierarchy
+
+- Multi-level Contribution and Submission Workflow
+    •   Department-level users can prepare and submit initial report.
+    • Planning Officers(immediate supervisor) can review, edit, and consolidate department
+      reports.
+    • Institutional Planning Officers can compile a final consolidated report.
 
 ### 👥 User Management
-- Users, roles, and permission management
-- Role-based access control
-
-- The Users, Roles, and Privileges Management module provides a secure, flexible, and scalable
-  system to manage user access control throughout the application. It allows administrators to
-  dynamically create and manage users, define custom roles, assign privileges (permissions) to those
-  roles, and associate users with roles. This approach supports the principle of Role-Based Access
-  Control (RBAC) while maintaining the flexibility to adapt to evolving organizational needs.
+  - Users, roles, and permission management
+  - Role-based access control
+  
+  - The Users, Roles, and Privileges Management module provides a secure, flexible, and scalable
+    system to manage user access control throughout the application. It allows administrators to
+    dynamically create and manage users, define custom roles, assign privileges (permissions) to those
+    roles, and associate users with roles. This approach supports the principle of Role-Based Access
+    Control (RBAC) while maintaining the flexibility to adapt to evolving organizational needs.
 
 ---
 
